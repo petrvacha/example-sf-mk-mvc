@@ -1,0 +1,7 @@
+/var/*
+!var/cache/.gitkeep
+!var/logs/.gitkeep
+/bin/*
+!bin/console
+/vendor/
+/web/bundles/
